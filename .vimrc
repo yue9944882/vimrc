@@ -14,6 +14,7 @@ Plugin 'Shougo/neocomplete'
 Plugin 'Shougo/neosnippet'
 Plugin 'Shougo/neosnippet-snippets'
 Plugin 'scrooloose/nerdtree'
+Plugin 'hotchpotch/perldoc-vim'
 
 
 call vundle#end()            " required
